@@ -1,5 +1,7 @@
 # Inventory and Sales Web System
 
+**Live site:** https://goshenminimart.infinityfreeapp.com
+
 A web-based system for a small store. It has a cashier dashboard for sales and an admin dashboard for inventory.
 
 ## Setup
