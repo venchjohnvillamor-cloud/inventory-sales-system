@@ -1,10 +1,10 @@
 <?php
 session_start();
 
-// Change these to your store's details.
-const STORE_NAME = 'Goshen Mini Mart';
+
+const STORE_NAME = 'Inventory Sales System';
 const STORE_TAGLINE = 'Groceries, drinks, and school supplies';
-// Copy this file to config.php and fill in your own database details.
+
 const DB_HOST = 'localhost';
 const DB_NAME = 'inventory_sales_db';
 const DB_USER = 'your_db_username';
